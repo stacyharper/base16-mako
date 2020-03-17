@@ -5,4 +5,4 @@ settings for [mako](https://github.com/emersion/mako).
 
 To use, just pick a config snippet from colors/ and put it in your mako configuration, however you want.
 
-The colors mapping is based on [base16 dunst](https://github.com/khamer/base16-dunst).
+The color mapping is based on [base16 sway](https://github.com/rkubosz/base16-sway).
